@@ -1,0 +1,33 @@
+{
+  "First Name": "larry",
+  "Middle Initial": "okubasu",
+  "Last Name": "buluma",
+  "Mailing Address": "435 hidden place",
+  "City": "Atlantis",
+  "Country": "Pacific",
+  "Zip code": "9034",
+  "Email Address": "larry@gmail.com",
+  "Phone Number": "723911"
+}
+{
+  "First Name": "Yon",
+  "Middle Initial": "Seri",
+  "Last Name": "Choice",
+  "Mailing Address": "34523 Itaewon",
+  "City": "Seoul",
+  "Country": "South Korea",
+  "Zip code": "82304",
+  "Email Address": "seri@gmail.com",
+  "Phone Number": "9830411"
+}
+{
+  "First Name": "Yon",
+  "Middle Initial": "Seri",
+  "Last Name": "Ri",
+  "Mailing Address": "34523 Itaewon",
+  "City": "Seoul",
+  "Country": "South Korea",
+  "Zip code": "82304",
+  "Email Address": "seri@gmail.com",
+  "Phone Number": "9830411"
+}
